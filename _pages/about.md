@@ -12,6 +12,11 @@ I'm Heidi, I work in the space industry. When I'm not working, I can usually be 
 
 P.S. Thiemann is pronounced 'tee-man'.
 
+In-Space Servicing, Assembly, and Manufacturing (ISAM)
+======
+
+I work as a project manager at [Orbit Fab UK](https://www.orbitfab.com/), a company making refuelling of satellites in space a reality. Projects I manage include RADICAL, working to refuel GEO and LEO telecoms satellties), and more...
+
 Space skills work
 ======
 
@@ -27,4 +32,4 @@ I've only come to your website to find out about a career in space
 
 [You're in luck, I've got some useful links to share...](https://heidithiemann.github.io/spacecareers/)
 
-###### _Last updated: 24 01 2025_ 
+###### _Last updated: 7th Feb 2026_ 
