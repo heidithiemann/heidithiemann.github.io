@@ -27,19 +27,23 @@ In 2023 we published the Space Sector Skills Survey, and a report on the routes 
 
 In 2024 we launched the 2024 Space Census, the second national census of the UK space sector.
 
+In 2025 we published the Space Skills Roadap 2030, and the SpaceCRAFT competencies framework.
+
 Panels and collaborations
 ======
-I'm currently involved in a number of space sector panels and organisations:
-* Member of Space Skills Advisory Panel (SSAP)
+I'm currently involved in space sector panels and competitions:
 * Member of the Cornwall Space Cluster Steering Group
 * Member of the UKspace Policy Advisory Group (PAG)
-* Member of the UK Telecoms Innovation Network Talent (UKTIN) Advisory Group
-* Member of the Association for Geographic Information (AGI) Education & Skills Working Group
-* Co-lead of the South West Aerospace Network (SWAN)
-* Contributing Member to the Future Space Technologies Astronomy Impact Working Group (FST WG) at the IAU Centre for the Protection of Dark and Quiet Sky (CPS) Policy Hub
+* Judge of the UK CanSat competition
 
 And previously was involved in a number of other panels and organisations:
+* Member of Space Skills Advisory Panel (SSAP)
+* Member of the Association for Geographic Information (AGI) Education & Skills Working Group
+* Member of the UK Telecoms Innovation Network Talent (UKTIN) Advisory Group
+* Co-lead of the South West Aerospace Network (SWAN)
 * Volunteer for Women In Aerospace - Europe (WIA-E)
 * Committee member of the Space Universities Network (SUN)
 * Member of the Data Intensive Science Network (DISCnet) CDT steering group
+* Represented Space Skills Alliance in the House of Lords
 * Represented both the Royal Astronomical Society and The Open University in the Voice of the Future events in the House of Commons
+* Contributing Member to the Future Space Technologies Astronomy Impact Working Group (FST WG) at the IAU Centre for the Protection of Dark and Quiet Sky (CPS) Policy Hub
