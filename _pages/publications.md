@@ -12,11 +12,15 @@ On this page you can find a selection of my publications, talks, and public outr
 
 Space skills publications
 ======
+* Wim Lahaye, **Heidi B. Thiemann**, Robin Pradal, Mehdi Tabsissi, [Workforce demand evolution and distribution](https://www.astraios.eu/public-deliverables), ASTRAIOS
+* Joseph Dudley, **Heidi B. Thiemann** (2025). _[Demographics of the UK Space Sector 2024](https://spaceskills.org/reports/census-2024-demographics)_, Space Skills Alliance
 * Joseph Dudley, **Heidi B. Thiemann** (2025). _[New estimates for the UK’s regional space workforce](https://spaceskills.org/dth)_, Space Skills Alliance
 * Joseph Dudley, **Heidi B. Thiemann** (2024). _[Space Skills Roapmap 2030](https://spaceskills.org/space-skills-roadmap-2030)_, Space Skills Alliance
 * **Heidi B. Thiemann**, Joseph Dudley (2024). _[What is the government doing about space skills?](https://spaceskills.org/what-is-government-doing)_, Space Skills Alliance
 * **Heidi B. Thiemann**, Joseph Dudley, Will Lecky, Ewan Dallas (2023). _[Space Sector Skills Survey 2023](https://www.gov.uk/government/publications/space-sector-skills-survey-2023)_, Space Skills Alliance
 * Joseph Dudley, **Heidi B. Thiemann** (2023). _[How and why people join the UK space sector](https://spaceskills.org/census-routes)_, Space Skills Alliance
+* **Heidi B. Thiemann**, Joseph Dudley (2023). [EU Space Sector Demographics Database](https://www.astraios.eu/public-deliverables), ASTRAIOS
+* **Heidi B. Thiemann**, Joseph Dudley (2023). [European Space Sector Skills Taxonomy](https://www.astraios.eu/public-deliverables), ASTRAIOS
 * Joseph Dudley, **Heidi B. Thiemann** (2022). _[5 Solutions to the Space Skills Gap](https://spaceskills.org/news-post?p=_20220905-5-solutions)_, Space Skills Alliance
 * **Heidi B. Thiemann**, Joseph Dudley (2021). _[Women in the UK space sector](https://spaceskills.org/women-report)_, Space Skills Alliance
 * Joseph Dudley, **Heidi B. Thiemann** (2021). _[Pay in the UK space sector](https://spaceskills.org/census-pay)_, Space Skills Alliance
@@ -48,11 +52,14 @@ Space education/diversity publications
 * Anastasia Pesce, Artemis Westenberg, Cécile Deprez, Cessy Karina, **Heidi B. Thiemann**, Justyna Pelc, Leah-Nani Alconcel, Marcelle Laliberté, Rebecca Harwin, Xenia Pattberg (2022). _[Visibility of Female Experts](https://www.wia-europe.org/wia-e-working-groups/white-paper-visibility-of-female-experts/)_, Women In Aerospace - Europe
 * Daniel Robson, Henry Lau, Áine O'Brien, Lucy Williams, Ben Sutlieff, **Heidi B. Thiemann**, Louise McCaul, George Weaver, Tracey Dickens (2019). _[Assessing the Impact of Space School UK](https://arxiv.org/abs/2006.06680)_, Proceedings of the 3rd Symposium on Space Educational Activities, pp. 138-144
 
+ISAM publications
+======
+* Portia Bowman, Chris Brunskill, Rob Brennan-Craddock, Joanne Oliver, **Heidi B. Thiemann**, Joseph Dudley (2024). [What capabilities does the UK have in In-Orbit Servicing, Assembly and Manufacturing?](https://static1.squarespace.com/static/647dfe45f26b5d4275dbfe9a/t/683dbe78b888357c707a998d/1748876927698/UK+ISAM+Capabilities+Report.pdf), Growbotics 
+
 Astronomy publications
 ======
 My ADS publications library can be found _[here](https://ui.adsabs.harvard.edu/search/q=docs(library%2FkKg8ELVUSWicsIue1eSe0w)&sort=date%20desc%2C%20bibcode%20desc&p_=0)_.
 
-* **Heidi B. Thiemann**, Andrew J. Norton, Ulrich C. Kolb (2024). _Discovery of Near Contact Red Giant Eclipsing Binary Stars_, (in prep)
 *  **Heidi B. Thiemann**, Andrew J. Norton, Ulrich C. Kolb, Hugh J. Dickinson, Adam McMaster (2022). _[SuperWASP Variable Stars: Classifying Light Curves Using Citizen Science](https://ui.adsabs.harvard.edu/abs/2022ASPC..532..303T/abstract)_, ADASS XXX
 *  Jonathan McDowell, Rob Seaman, Cees Bassa, David Galada Enriquez, Oliver Hainaut, Courtney Hodgson, Matt Holman, Moriba Jah, JJ Kavelaars, Keith Poletti, Morgan Schmitz, Pat Seitzer, Jan Siminski, Rachel Street, Hossen Teimoorinia, **Heidi B. Thiemann**, Connie Walker, Jaffrey Hall (2021). _[SATCON2 Algorithms Working Group Report](https://zenodo.org/records/5608843)_, SATCON2
 * **Heidi B. Thiemann** (2021), _[Variable Stars in the SuperWASP All-Sky Survey](http://oro.open.ac.uk/78919/)_, The Open University
