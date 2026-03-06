@@ -12,7 +12,7 @@ On this page you can find a selection of my publications, talks, and public outr
 
 Space skills publications
 ======
-* Wim Lahaye, **Heidi B. Thiemann**, Robin Pradal, Mehdi Tabsissi, [Workforce demand evolution and distribution](https://www.astraios.eu/public-deliverables), ASTRAIOS
+* Wim Lahaye, **Heidi B. Thiemann**, Robin Pradal, Mehdi Tabsissi (2025). [Workforce demand evolution and distribution](https://www.astraios.eu/public-deliverables), ASTRAIOS
 * Joseph Dudley, **Heidi B. Thiemann** (2025). _[Demographics of the UK Space Sector 2024](https://spaceskills.org/reports/census-2024-demographics)_, Space Skills Alliance
 * Joseph Dudley, **Heidi B. Thiemann** (2025). _[New estimates for the UK’s regional space workforce](https://spaceskills.org/dth)_, Space Skills Alliance
 * Joseph Dudley, **Heidi B. Thiemann** (2024). _[Space Skills Roapmap 2030](https://spaceskills.org/space-skills-roadmap-2030)_, Space Skills Alliance
