@@ -9,34 +9,30 @@ redirect_from:
 
 Space Skills Alliance
 ======
-I co-founded the [Space Skills Alliance](https://spaceskills.org) with my good friend Joseph Dudley. SSA exists to tackle the space skills shortage, by collecting and publishing data and analysis, promoting and advising on best practice, and bringing key stakeholders together to collaborate and learn from each other.
+I co-founded [Space Skills Alliance](https://spaceskills.org) with my friend Joseph Dudley. SSA exists to tackle the UK space skills shortage by collecting and publishing data, promoting best practice, and bringing key stakeholders together to collaborate and learn from each other.
 
-I started back in 2014 as a student leading UKSEDS, the national student space society, and organising major national events, competitions, and outreach activities.
+My journey started in 2014 as a student leading UKSEDS, the national student space society, organising major events, competitions, and outreach activities.
 
-In 2015 we built SpaceCareers.uk, a careers website for young people, which has become the go-to resource for the sector, and was recognised by Prime Minister Theresa May as “a crucial service to thousands of people across the country that want to learn more about careers in the space industry”.
+In 2015 we launched SpaceCareers.uk, a careers website for young people, which has become the go-to resource for the sector. It was recognised by Prime Minister Theresa May as “a crucial service to thousands of people across the country that want to learn more about careers in the space industry.”
 
-In 2019 we launched the Space Skills Alliance to address systemic problems in the sector.
+In 2019, we formally launched the Space Skills Alliance to address systemic skills challenges across the sector.
 
-In 2020 we published reports and analysis on skills demand, job advert quality, and skills taxonomies, as well as a toolkit of resources for better recruiting. We were also selected to conduct the first national census of the UK space sector, launched by Science Minister Amanda Solloway during World Space Week.
-
-In 2021 we published the first comprehensive demographic statistics, the first pay data for the UK space sector, and a report on women in the UK space sector, based on the findings of the census. We also launched our library of space skills literature.
-
-In 2022 we created the Space Training Catalogue, a free directory of hundreds of training opportunities, and SpaceCRAFT, a space competencies framework.
-
-In 2023 we published the Space Sector Skills Survey, and a report on the routes into the UK space sector, based on the findings of the census, and started work on the EU Horizon ASTRAIOS project.
-
-In 2024 we launched the 2024 Space Census, the second national census of the UK space sector.
-
-In 2025 we published the Space Skills Roadap 2030, and the SpaceCRAFT competencies framework.
+Key milestones:
+* 2020 – Published reports on skills demand, job advert quality, and skills taxonomies; produced a toolkit for better recruitment; conducted the first national census of the UK space sector.
+* 2021 – Released the first comprehensive demographic statistics, the first pay data for the UK space sector, and a report on women in the sector; launched our library of space skills literature.
+* 2022 – Created the Space Training Catalogue, a free directory of hundreds of training opportunities, and SpaceCRAFT, a space competencies framework.
+* 2023 – Published the Space Sector Skills Survey and a report on routes into the UK space sector; began work on the EU Horizon ASTRAIOS project.
+* 2024 – Launched the second national census of the UK space sector, the 2024 Space Census.
+* 2025 – Published the Space Skills Roadmap 2030 and the updated SpaceCRAFT competencies framework.
 
 Panels and collaborations
 ======
-I'm currently involved in space sector panels and competitions:
+I’m currently involved in:
 * Member of the Cornwall Space Cluster Steering Group
 * Member of the UKspace Policy Advisory Group (PAG)
 * Judge of the UK CanSat competition
 
-And previously was involved in a number of other panels and organisations:
+Previously, I’ve contributed to:
 * Member of Space Skills Advisory Panel (SSAP)
 * Member of the Association for Geographic Information (AGI) Education & Skills Working Group
 * Member of the UK Telecoms Innovation Network Talent (UKTIN) Advisory Group
